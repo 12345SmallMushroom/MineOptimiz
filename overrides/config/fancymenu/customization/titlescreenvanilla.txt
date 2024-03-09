@@ -60,14 +60,6 @@ customization {
 }
 
 customization {
-  identifier = %id=604346%
-  orientation = mid-centered
-  x = 108
-  action = movebutton
-  y = 30
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
   orientation = mid-centered
   x = 108
@@ -100,50 +92,18 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
-  orientation = mid-centered
-  x = -99
-  action = movebutton
-  y = 3
-}
-
-customization {
-  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
-  width = 200
-  action = resizebutton
-  height = 20
-}
-
-customization {
-  orientation = top-left
-  hidden = false
-  x = 140
-  width = 200
-  action = deep_customization_element:title_screen_forge_top
-  actionid = f58f3731-8731-4522-9ed2-e3f6de9e25ee1692429698521
-  y = 4
-  height = 19
+  action = hidebutton
 }
 
 customization {
   orientation = top-left
   hidden = false
   x = 2
-  width = 85
+  width = 88
   action = deep_customization_element:title_screen_branding
   actionid = 06de3a86-7616-4da3-8891-95d20dac53c11692429698545
   y = 246
   height = 40
-}
-
-customization {
-  orientation = top-left
-  hidden = false
-  x = 311
-  width = 168
-  action = deep_customization_element:title_screen_forge_copyright
-  actionid = 9047951e-08aa-470c-a18c-7b0c3362067e1692429698546
-  y = 268
-  height = 9
 }
 
 customization {
@@ -172,13 +132,35 @@ customization {
   orientation = top-centered
   splash_color = #ffff00
   hidden = false
-  x = 107
+  x = 87
   width = 60
   splash_rotation = -20
   action = deep_customization_element:title_screen_splash
   actionid = ca48ff86-5f85-4067-b868-54e8092317d21692429698547
-  y = 87
+  y = 102
   height = 30
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 140
+  width = 200
+  action = deep_customization_element:title_screen_forge_top
+  actionid = fc6f4396-4ca5-47b5-b780-afdcbdd870001708187790304
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 311
+  width = 168
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = d568c205-1806-4cd5-869d-878afb64f0a21708187790305
+  y = 268
+  height = 9
 }
 
 customization {
@@ -226,11 +208,25 @@ customization {
 customization {
   path = guirequired/title.png
   orientation = top-centered
-  x = -127
+  x = -126
   width = 247
   action = addtexture
   actionid = 7b58748b-8f91-460e-80a7-0966f9c2a1b71693402698741
-  y = 33
+  y = 32
   height = 65
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui;net.minecraftforge.client.gui.ModListScreen%btnaction_splitter_fm%
+  x = -99
+  width = 200
+  action = addbutton
+  actionid = e7506451-d895-4498-ba78-a0344813865a1706255599334
+  y = 3
+  label = 模组
+  height = 20
 }
 
