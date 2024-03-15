@@ -34,10 +34,10 @@ jobs:
           rm -rf .github
           rm -rf .git
           rm README.md
-          zip -r "./MineOptimiz Forge v1.20.1-Stable-0.1.8.zip" ./*
+          zip -r "./MineOptimiz Forge v1.20.1-Stable-0.1.8-Update.1.zip" ./*
       
       - uses: actions/upload-artifact@v2
         with:
-          name: MineOptimiz Forge v1.20.1-Stable-0.1.8.zip
-          path: "./MineOptimiz Forge v1.20.1-Stable-0.1.8.zip"
+          name: MineOptimiz Forge v1.20.1-Stable-0.1.8-Update.1.zip
+          path: "./MineOptimiz Forge v1.20.1-Stable-0.1.8-Update.1.zip"
      
