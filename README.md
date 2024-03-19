@@ -15,7 +15,7 @@
  - 稳定版：在[Github Release](https://github.com/SmallMushroom-offical/MineOptimiz/releases)下载
  - 测试版：目前只有[1.19.4-(OptiFabric)](https://nightly.link/SmallMushroom-offical/MineOptimiz/workflows/main/1.19.4-OptiFabric-Dev)以及[1.20.1(Forge)](https://nightly.link/SmallMushroom-offical/MineOptimiz/workflows/main/1.20.1-Forge-Dev)可供下载
  ## 内置模组的Licence
- - [看这里](https://raw.githubusercontent.com/SmallMushroom-offical/MineOptimiz-Next/1.20.1-Dev/licence.txt)
+ - [看这里](https://raw.githubusercontent.com/SmallMushroom-offical/MineOptimiz-Next/1.20.1-Dev/licenceofmods.txt)
  - MineOptimiz的一些旧版本可能无法遵守这些模组的licence，很抱歉
  ## 注意事项
  - 建议使用960x576分辨率
