@@ -21,5 +21,5 @@
  ## Licence?
  - MineOptimiz本质上是一个整合包，不存在开源协议，但[MineOptimiz Updater](https://github.com/SmallMushroom-offical/MineOptimiz-Updater)使用[LGPLv2.1](https://github.com/SmallMushroom-offical/MineOptimiz-Updater/blob/main/LICENSE)协议
  ## 注意事项
- - 建议使用960x576分辨率
+ - 建议使用960x576以上的16:9分辨率，否则GUI会出Bug
 
