@@ -47,6 +47,6 @@ jobs:
       
       - uses: actions/upload-artifact@v2
         with:
-          name: MineOptimiz Fabric 1.20.1-Stable-0.10.6.zip
+          name: MineOptimiz Fabric 1.20.1-Stable-0.10.6.mrpack
           path: "./MineOptimiz Fabric 1.20.1-Stable-0.10.6.mrpack"
      
