@@ -4,7 +4,7 @@
   "modpackName": "MineOptimiz",
   "modpackAuthor": "Small__Mushroom",
   "modpackReleaseType": "stable",
-  "updateCheckerId": "https://raw.githubusercontent.com/SmallMushroom-offical/MineOptimiz-Next/1.20.1",
+  "updateCheckerId": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/SmallMushroom-offical/MineOptimiz-Next/1.20.1/",
   "advanced": {
     "bccEnabled": false,
     "expandButton": false,
