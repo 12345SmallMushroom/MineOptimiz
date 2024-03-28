@@ -1,14 +1,15 @@
- - Add Updater in English mode(9dc968a)
- - Renovation of the English mode(f8c03c3)
- - Fix Vanilla titile screen button bug(efcd670)
- - ...
- - ...
- - ...
- - it is too much,plz see this
-
- - **Full Changelog**: https://github.com/SmallMushroom-offical/MineOptimiz-Next/compare/OptiFabric-0.9.18...OptiFabric-0.9.19
-
-
- - 中文懒得打了，我累了
-
- - 自己翻吧
+| | |
+|-|-|
+|Add Updater in English mode(9dc968a)| |
+|Renovation of the English mode(f8c03c3)| |
+|Fix Vanilla titile screen button bug(efcd670)| |
+|...| |
+|...| |
+|...| |
+|it is too much|plz see this|
+| | |
+|**Full Changelog**: OptiFabric-0.9.18...OptiFabric-0.9.19| |
+| | |
+|中文懒得打了，我累了| |
+| | |
+|自己翻吧| |
