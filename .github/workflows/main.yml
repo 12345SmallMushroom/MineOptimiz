@@ -33,6 +33,8 @@ jobs:
         run: |
           rm -rf .github
           rm -rf .git
+          rm -rf versions
+          rm meta.json
           rm README.md
           rm English.md
           cd overrides
