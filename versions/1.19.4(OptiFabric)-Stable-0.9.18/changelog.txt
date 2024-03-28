@@ -1,1 +1,16 @@
-Sorry for the late upload.<br>Downgrade Exordium(8138aea)<br>Enable rain(85239f3)<br>Enable Cloud(9337583)<br>Add ChatImage(12562e3)<br>Change Key Binds(ef89ab9)<br>Add Error Check(Port from Forge-0.1.8)(b60e327)<br><br>Chinese:<br>抱歉上传晚了<br>降级Exordium(8138aea)<br>启用雨的效果以及添加Masa汉化包(85239f3)<br>启用云的效果(9337583)<br>添加ChatImage(12562e3)<br>调整一些键位设置(ef89ab9)<br>添加更新时的错误检查(移植自Forge-0.1.8)(b60e327)
+ - Sorry for the late upload.
+ - Downgrade Exordium(8138aea)
+ - Enable rain(85239f3)
+ - Enable Cloud(9337583)
+ - Add ChatImage(12562e3)
+ - Change Key Binds(ef89ab9)
+ - Add Error Check(Port from Forge-0.1.8)(b60e327)
+
+Chinese:
+ - 抱歉上传晚了
+ - 降级Exordium(8138aea)
+ - 启用雨的效果以及添加Masa汉化包(85239f3)
+ - 启用云的效果(9337583)
+ - 添加ChatImage(12562e3)
+ - 调整一些键位设置(ef89ab9)
+ - 添加更新时的错误检查(移植自Forge-0.1.8)(b60e327)
