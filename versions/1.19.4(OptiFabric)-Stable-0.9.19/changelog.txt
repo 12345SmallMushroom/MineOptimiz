@@ -1,15 +1,22 @@
-| | |
-|-|-|
-|Add Updater in English mode(9dc968a)| |
-|Renovation of the English mode(f8c03c3)| |
-|Fix Vanilla titile screen button bug(efcd670)| |
-|...| |
-|...| |
-|...| |
-|it is too much|plz see this|
-| | |
-|**Full Changelog**: OptiFabric-0.9.18...OptiFabric-0.9.19| |
-| | |
-|中文懒得打了，我累了| |
-| | |
-|自己翻吧| |
+Add Updater in English mode(9dc968a)
+<br />
+Renovation of the English mode(f8c03c3)
+<br />
+Fix Vanilla titile screen button bug(efcd670)
+<br />
+...
+<br />
+...
+<br />
+...
+<br />
+it is too much plz see this
+<br />
+<br />
+**Full Changelog**: OptiFabric-0.9.18...OptiFabric-0.9.19
+<br />
+<br />
+中文懒得打了，我累了
+<br />
+<br />
+自己翻吧
