@@ -1,5 +1,6 @@
 # MineOptimiz
 [English.md](https://github.com/SmallMushroom-offical/MineOptimiz/blob/1.19.4-OptiFabric-Stable/English.md)
+ - MineOptimiz即将移动到一个[新的存储库](https://github.com/MineOptimiz-Team/MineOptimiz-3rd)
 ## 这是啥？
 一个Minecraft优化整合包
 ## 它支持什么版本？
